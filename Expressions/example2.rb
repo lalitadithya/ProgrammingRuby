@@ -1,0 +1,2 @@
+puts `date`
+puts `cal`
